@@ -1,2 +1,2 @@
-# mayankvara.github.io
-this is Mayank Vara personal Profile.
+# avishcreativeminds.github.io
+This is Vishwa Kamdar personal Profile.
